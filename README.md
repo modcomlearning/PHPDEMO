@@ -15,3 +15,13 @@
 
 ###  Run the Project
 ` http://localhost/PHPDEMO/ `
+
+![image](https://github.com/modcomlearning/PHPDEMO/assets/66998462/5af01d61-fa5f-46ea-af04-a0ea599f957f)
+
+![image](https://github.com/modcomlearning/PHPDEMO/assets/66998462/582c0261-b1b1-44f5-9fbb-bbfa02d72809)
+
+![image](https://github.com/modcomlearning/PHPDEMO/assets/66998462/bdc989cc-5350-4eca-931a-ab07d28d93d9)
+
+![image](https://github.com/modcomlearning/PHPDEMO/assets/66998462/308af116-9a85-444a-a43a-1c3408551371)
+
+
