@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
+    <!-- This is Link to bootstrap -->
     <link rel="stylesheet" href="css/bootstrap.css">
 </head>
 <body>
@@ -12,7 +13,7 @@
     <section class="row p-5 text-center">
             <div class="container">
                  <h1>REGISTER</h1>
-                 <h3>Enter Your Credentials.</h3>
+                 <h3>Enter Your Details.</h3>
                  <form method="post">
                        <input type="text" name="username" placeholder="Username" required>
                        <br><br>
